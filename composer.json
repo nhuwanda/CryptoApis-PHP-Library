@@ -1,6 +1,6 @@
 {
     "name": "nhuwanda/cryptoapis-php-library",
-    "description": "Crypto APIs Fork with Guzzle 7.* versión",
+    "description": "Crypto APIs Fork with Guzzle 7.*",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "7.*",
