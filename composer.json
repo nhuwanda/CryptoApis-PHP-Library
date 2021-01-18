@@ -3,7 +3,7 @@
     "description": "Crypto APIs Fork with Guzzle 7.*",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "7.*",
+        "guzzlehttp/guzzle": "^6.5.5|^7.0.1",
         "php": ">=5.4"
     },
     "license": "MIT",
